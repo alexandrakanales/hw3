@@ -1,5 +1,6 @@
 # hw3
-[ссылка на таблицу](https://docs.google.com/spreadsheets/d/1jxrj4_BnT6wyD77H7LI6Ov36uDwnU4rfav-hZtMnDUc/edit#gid=1914720797) . 
+[ссылка на таблицу](https://docs.google.com/spreadsheets/d/1jxrj4_BnT6wyD77H7LI6Ov36uDwnU4rfav-hZtMnDUc/edit#gid=1914720797) .
+
 [ссылка на форму](https://docs.google.com/forms/d/e/1FAIpQLSfbFYdgvHFszF7yT0M1fYND16xAJKPctStElLX00MBbvSMVcw/viewform?usp=sf_link)
 # Немного об опросе
 
